@@ -1,5 +1,5 @@
 # BSE-T3-RL
-Coursework for Stochastic Models adn Optimization, taught in Term 3 at the Barcelona School of Economics, Class of 2022.
+Coursework for *Stochastic Models and Optimization*, taught in Term 3 at the Barcelona School of Economics, Class of 2022.
 
 Five projects that together make up the entirety of the final grade for the course. Taught by Gergely Neu and Hrvoje Stojic.
 
